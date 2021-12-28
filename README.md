@@ -46,7 +46,7 @@
       <a href="#">
         <img src="./images/google-cloud-1.svg" width="48" height="48" alt="Google Cloud" />
       </a>
-      <br>Google Cloud
+      <br>GCP
     </td>
     <td align="center" width="96"> 
       <a href="#">
