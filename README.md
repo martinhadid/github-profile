@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/martinhadid/martinhadid/blob/main/devcard.svg" width="400" alt="Martin Hadid's Dev Card" alt="Martin Hadid" align="right"/></a>
+<a href="https://app.daily.dev/martinhadid"><img src="https://github.com/martinhadid/martinhadid/blob/main/devcard.svg" width="400" alt="Martin Hadid's Dev Card" alt="Martin Hadid" align="right"/></a>
 
 
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
